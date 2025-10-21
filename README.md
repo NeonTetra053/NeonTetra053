@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm NeonTetra053, or just Neon.
+## I make pixel art. And games. I'd say (humbly) that I'm pretty good at it.
+## I hope to start making actually good music one day.
 
 <!--
 **NeonTetra053/NeonTetra053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
